@@ -1,6 +1,6 @@
 # TestNG
 
-![TestNG Logo](https://testng.org/images/testng.png)
+![TestNG Logo](https://d2jdgazzki9vjm.cloudfront.net/tutorial/testng/images/testng-tutorial.png)
 
 TestNG adalah framework pengujian yang kuat dan fleksibel untuk Java, yang terinspirasi dari JUnit dan NUnit. Framework ini dirancang untuk memberikan fungsionalitas yang lebih baik dalam pengujian unit dan integrasi, serta memungkinkan pengujian berbasis parameter dan pengujian paralel.
 
